@@ -1,0 +1,27 @@
+{
+  "name": "wills-sms",
+  "version": "1.0.0",
+  "description": "sms sending API endpoint ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/willssmartTechnology/BulkSms-API.git"
+  },
+  "keywords": [
+    "sms",
+    "twillio",
+    "aws"
+  ],
+  "author": "Eberechi Williams",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2",
+    "twilio": "^3.58.0"
+  }
+}
